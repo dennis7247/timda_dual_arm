@@ -21,6 +21,12 @@ $ sudo apt-get install ros-<distro>-map-server
 $ sudo apt-get install ros-<distro>-sbpl-lattice-planner
 $ sudo apt-get install ros-<distro>-nav-core-adapter
 $ sudo apt-get install ros-<distro>-dwb-plugins
+$ sudo apt-get install ros-<distro>-position-controllers 
+$ sudo apt-get install ros-<distro>-velocity-controllers 
+$ sudo apt-get install ros-<distro>-effort-controllers 
+$ sudo apt-get install ros-<distro>-joint-state-controller 
+$ sudo apt-get install ros-<distro>-joint-state-publisher
+
 ```
 
 ### Install modbus library `libmodbus`:
